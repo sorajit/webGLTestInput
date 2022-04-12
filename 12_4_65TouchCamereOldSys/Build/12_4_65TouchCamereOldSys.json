@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "pluginsTest",
+"productVersion": "0.1",
+"dataUrl": "12_4_65TouchCamereOldSys.data.unityweb",
+"wasmCodeUrl": "12_4_65TouchCamereOldSys.wasm.code.unityweb",
+"wasmFrameworkUrl": "12_4_65TouchCamereOldSys.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
