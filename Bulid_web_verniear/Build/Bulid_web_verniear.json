@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "web_verniear_lab",
+"productVersion": "0.1",
+"dataUrl": "Bulid_web_verniear.data.unityweb",
+"wasmCodeUrl": "Bulid_web_verniear.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bulid_web_verniear.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
